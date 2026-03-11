@@ -21,9 +21,6 @@ Developed by: Vimalesh kanna MK
 RegisterNumber:  212225230303
 
 /*
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: THARUN DP
-RegisterNumber:25018717
 # Import required libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
